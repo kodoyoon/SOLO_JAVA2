@@ -7,7 +7,7 @@ public class ClassStart3 {
     student1 = new Student(); //Student 클래스 정보를 기반으로 새로운 객체를 생성하라는 뜻이다.
     student1.name = "학생1"; // . 은 클래스로 접근하는 방법, //x001
     student1.age = 15;
-    student1.grade = 90;
+    student1.grade = 90; //객체 내부의 변수
 
     Student student2 = new Student();  //Student = student2
     //------------------------------- // student2 = new Student2;
